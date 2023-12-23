@@ -1,0 +1,4 @@
+2023-12-22T11:01:12+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\elementor\core\base\db-upgrades-manager.php on line 8
+
+2023-12-22T11:01:36+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-includes\functions.php on line 6805
+
